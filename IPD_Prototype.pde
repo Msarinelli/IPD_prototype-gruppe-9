@@ -35,7 +35,7 @@ void setup(){
   QRcode=loadImage("QRcode_medialogi.png");
   side1=loadImage("Hvad_er_medialogi.png");
   side2=loadImage("Job_og_karriere.png");
-  side4=loadImage("Hjemmeside.JPG");
+  side4=loadImage("Hjemmeside.png");
   
   cam=new Capture(this,640,480,30);
   cam.start();
